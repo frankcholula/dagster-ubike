@@ -1,2 +1,2 @@
-# Dagster Ubike
-A sample ubike data pipeline to showcase Dagster.
+# Dagster YouBike
+A sample YouBike data pipeline to showcase Dagster.
